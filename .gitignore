@@ -1,5 +1,1 @@
-.setting
-
-.classpath
-
-bean/**
+*.class
